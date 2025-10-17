@@ -1,0 +1,1 @@
+﻿public record GetPaginatedBooksRequest(int Page = 1, int PageSize = 10);

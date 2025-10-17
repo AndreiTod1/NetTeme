@@ -1,0 +1,1 @@
+﻿public record GetBookByIdRequest(int Id);
